@@ -1,0 +1,2 @@
+# GeoHack
+Custom GeoGuesser Cheat
