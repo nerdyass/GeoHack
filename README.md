@@ -4,11 +4,12 @@ Custom GeoGuesser Cheat
 Showcase video: https://youtu.be/zAYroTQmJro
 
 # Info:
-DON'T DM ME ON DISCORD OR ANYWHERE ASKING HOW TO SET THIS UP, I WON'T RESPOND!
-DON'T EXPECT THIS TO UPDATE OFTEN / AT ALL!
-THIS USES TAMPERMONKEY (AN EXTENSION FOUND HERE: https://www.tampermonkey.net/) TO OPERATE.
-FEEL FREE TO EDIT / REDISTRIBUTE / DO WHATEVER YOU WANT WITH THIS, IF U DO SMTH COOL, DM ME IT!
-discord.gg/nerdyass
+Don't DM me on discord or anywhere asking hwo to set this up, it's a simple TamperMonkey script, there's plenty of tutorials (I won't respond)
+I don't plan on updating this. It was first/last updated @ public release which was 23/9/2024 - some aspects may be patched now.
+Feel free to edit this script however you like, if you do something cool with it, send it in my discord: discord.gg/nerdyass
+
+# Dependencies
+Use TamperMonkey: https://www.tampermonkey.net/ to run this script
 
 # Bind:
 Default toggle bind: 't'.
